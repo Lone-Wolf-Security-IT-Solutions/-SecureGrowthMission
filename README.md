@@ -16,7 +16,7 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - [Slideshow PDF](link to slideshow PDF)
 
 ## SOPs
-- IT Infrastructure Setup and Management SOP | https://docs.google.com/document/d/1dqdwm7_p4rCyHOr9sRE6tOZz1Iul4bXHVH_0_JM19jg/edit?usp=sharing | Justin Patterson
+- IT Infrastructure Setup and Management SOP | Justin Patterson | https://docs.google.com/document/d/1dqdwm7_p4rCyHOr9sRE6tOZz1Iul4bXHVH_0_JM19jg/edit?usp=sharing
 - [SOP 2](link to SOP 2) (Authored by)
 - ...
 
