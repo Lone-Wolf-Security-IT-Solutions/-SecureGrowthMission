@@ -10,8 +10,8 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 
 ## Project Documents
 - Team Agreement Document https://docs.google.com/document/d/1bgyqflLzgBZPbsnlPFKoUSaMttzRFiPexZVBfbmZQiM/edit?usp=sharing
-- [System Selection Document](link to System Selection doc)
-- [Topologies/Visuals](link to visuals folder)
+- [System Selection Document] https://docs.google.com/document/d/1DkNcgdGgFSt7_Xu7Clmtiy7dR-zbHs0y8JGG--HUtYU/edit?usp=sharing
+- [Topologies/Visuals]https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing
 - [SOP Docs](link to SOPs folder)
 - [Slideshow PDF](link to slideshow PDF)
 
@@ -21,7 +21,7 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - ...
 
 ## Visuals
-![Topology](link to topology image)
+![Topology] https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing
 [Other Visuals](link to visuals folder)
 
 ## Operation Information
