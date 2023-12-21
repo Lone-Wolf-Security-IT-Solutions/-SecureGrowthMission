@@ -22,7 +22,7 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - ...
 
 ## Visuals
-![Topology] https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing
+[Network Topology](https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing)
 [Other Visuals](link to visuals folder)
 
 ## Operation Information
