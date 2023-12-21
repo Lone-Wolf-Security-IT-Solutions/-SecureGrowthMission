@@ -21,7 +21,7 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - [pfSense SOP](https://docs.google.com/document/d/1yPuLxpixAuUX8MV25_cya_NoZkBpmDcyf-WL2h5q41Q/edit?usp=sharing) (Justin Patterson)
 - [Ubuntu Server SOP](https://docs.google.com/document/d/1LPT5q5MsBm_qvZ-w0agz7ysoc7jTkdcmVx9PoCuqtJc/edit?usp=sharing) (Justin Patterson)
 - [Windows 11 SOP](https://docs.google.com/document/d/1ODwxujR3WiTJVcEptKrxvkEyQNS9aP5ZXRQ1Ov9-jEM/edit?usp=sharing) (Justin Patterson)
-- []() ()
+- [OpenVPN SOP](https://docs.google.com/document/d/13l8As9oJcA60_PbLlY6U6Q5dGyhPcW6hPt-dcbMr4s0/edit?usp=sharing) (Justin Patterson)
 - []() ()
 - []() ()
 - []() ()
