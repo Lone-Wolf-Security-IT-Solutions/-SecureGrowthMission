@@ -19,7 +19,19 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 ## SOPs
 - [IT Infrastructure Setup and Management SOP](https://docs.google.com/document/d/1dqdwm7_p4rCyHOr9sRE6tOZz1Iul4bXHVH_0_JM19jg/edit?usp=sharing) (Justin Patterson)
 - [pfSense SOP](https://docs.google.com/document/d/1yPuLxpixAuUX8MV25_cya_NoZkBpmDcyf-WL2h5q41Q/edit?usp=sharing) (Justin Patterson)
-- [SOP](link) (author)
+- [SOPUbuntu Server SOP](https://docs.google.com/document/d/1LPT5q5MsBm_qvZ-w0agz7ysoc7jTkdcmVx9PoCuqtJc/edit?usp=sharing) (Justin Patterson)
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- []() ()
+- 
+
 - ...
 
 ## Visuals
