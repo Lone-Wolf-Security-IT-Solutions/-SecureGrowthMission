@@ -9,9 +9,10 @@ Justin Patterson | GitHub Profile: JustinHero-XYZ | https://github.com/JustinHer
 This project will be managed with GitHub Projects https://github.com/orgs/Lone-Wolf-Security-IT-Solutions/projects/1
 
 ## Project Documents
-- Team Agreement Document https://docs.google.com/document/d/1bgyqflLzgBZPbsnlPFKoUSaMttzRFiPexZVBfbmZQiM/edit?usp=sharing
-- [System Selection Document] https://docs.google.com/document/d/1DkNcgdGgFSt7_Xu7Clmtiy7dR-zbHs0y8JGG--HUtYU/edit?usp=sharing
-- [Topologies/Visuals]https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing
+- Team Agreement Document | https://docs.google.com/document/d/1bgyqflLzgBZPbsnlPFKoUSaMttzRFiPexZVBfbmZQiM/edit?usp=sharing
+- MSP SOW | https://docs.google.com/document/d/1Zy4zYM5SIUSiLIwyeHTAZKo5mM1VZTWQV0meSt6HPCU/edit?usp=sharing
+- System Selection Document | https://docs.google.com/document/d/1DkNcgdGgFSt7_Xu7Clmtiy7dR-zbHs0y8JGG--HUtYU/edit?usp=sharing
+- Network Topology | https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing
 - [SOP Docs](link to SOPs folder)
 - [Slideshow PDF](link to slideshow PDF)
 
