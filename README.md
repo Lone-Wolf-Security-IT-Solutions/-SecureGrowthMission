@@ -27,7 +27,9 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - [Thunderbird Email SOP](https://docs.google.com/document/d/1aQzzMxno4-DKiwTf2WzRnATPBE5mJQ46xMAee_ObaTs/edit?usp=sharing) (Justin Patterson)
 - [Data Disposal (DBAN) SOP](https://docs.google.com/document/d/1Lgl_0Edxpc21VCur8eRnyD43DSmBKkhQsgcnmmMXYko/edit?usp=sharing) (Justin Patterson)
 - [Backup and Recovery SOP](https://docs.google.com/document/d/1IkPi1QmZ3Jqu1uj1_wXUa6oYI02Y-UwKbQtEn-5L80k/edit?usp=sharing) (Justin Paatterson)
-- []() () 
+- [Samba Server SOP](https://docs.google.com/document/d/1Ho-4EwmKz20wvISDpPuKCWp5lrskSIa19EUU6OVge80/edit?usp=sharing) (Justin Patterson)
+- []() ()
+- []() ()
 
 - ...
 
