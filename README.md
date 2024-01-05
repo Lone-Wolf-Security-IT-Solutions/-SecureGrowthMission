@@ -12,36 +12,27 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - [Team Agreement Document](https://docs.google.com/document/d/1bgyqflLzgBZPbsnlPFKoUSaMttzRFiPexZVBfbmZQiM/edit?usp=sharing)
 - [MSP SOW](https://docs.google.com/document/d/1Zy4zYM5SIUSiLIwyeHTAZKo5mM1VZTWQV0meSt6HPCU/edit?usp=sharing)
 - [System Selection Document](https://docs.google.com/document/d/1DkNcgdGgFSt7_Xu7Clmtiy7dR-zbHs0y8JGG--HUtYU/edit?usp=sharing)
-- [Network Topology](https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing)
-- [SOP Docs](link to SOPs folder)
-- [Slideshow PDF](link to slideshow PDF)
+- [Network Topology](https://drive.google.com/file/d/1HcGP6VvaB8_GewDFXjLrVhHiMv72MWUP/view?usp=sharing)
+- [SOP Folder](https://drive.google.com/drive/u/0/folders/1l-tEIOf_KhNZYu5lktYftSnbjRUHw4De)
+- [Slideshow PDF](https://drive.google.com/file/d/1lspuSdz2_hiEzjFo3vfLC-dQ7dzC7ig5/view?usp=sharing)
 
 ## SOPs
 - [IT Infrastructure Setup and Management SOP](https://docs.google.com/document/d/1dqdwm7_p4rCyHOr9sRE6tOZz1Iul4bXHVH_0_JM19jg/edit?usp=sharing) (Justin Patterson)
 - [pfSense SOP](https://docs.google.com/document/d/1yPuLxpixAuUX8MV25_cya_NoZkBpmDcyf-WL2h5q41Q/edit?usp=sharing) (Justin Patterson)
 - [Ubuntu Server SOP](https://docs.google.com/document/d/1LPT5q5MsBm_qvZ-w0agz7ysoc7jTkdcmVx9PoCuqtJc/edit?usp=sharing) (Justin Patterson)
 - [Windows 11 SOP](https://docs.google.com/document/d/1ODwxujR3WiTJVcEptKrxvkEyQNS9aP5ZXRQ1Ov9-jEM/edit?usp=sharing) (Justin Patterson)
-- [OpenVPN SOP](https://docs.google.com/document/d/13l8As9oJcA60_PbLlY6U6Q5dGyhPcW6hPt-dcbMr4s0/edit?usp=sharing) (Justin Patterson)
 - [Endpoint Security SOP](https://docs.google.com/document/d/14Oy9ebsMtjZQ5MAyEX5Qzb_tEcW7bJo47YRCTL_rie8/edit?usp=sharing) (Justin Patterson)
 - [IT Help Desk Solution(Hesk) SOP](https://docs.google.com/document/d/1anIkSdVKnZVGuryUcyQks-qJGcx6GMVYVKl66apEovk/edit?usp=sharing) (Justin Patterson) 
 - [Thunderbird Email SOP](https://docs.google.com/document/d/1aQzzMxno4-DKiwTf2WzRnATPBE5mJQ46xMAee_ObaTs/edit?usp=sharing) (Justin Patterson)
 - [Data Disposal (DBAN) SOP](https://docs.google.com/document/d/1Lgl_0Edxpc21VCur8eRnyD43DSmBKkhQsgcnmmMXYko/edit?usp=sharing) (Justin Patterson)
-- [Backup and Recovery SOP](https://docs.google.com/document/d/1IkPi1QmZ3Jqu1uj1_wXUa6oYI02Y-UwKbQtEn-5L80k/edit?usp=sharing) (Justin Paatterson)
 - [Samba Server SOP](https://docs.google.com/document/d/1Ho-4EwmKz20wvISDpPuKCWp5lrskSIa19EUU6OVge80/edit?usp=sharing) (Justin Patterson)
-- []() ()
-- []() ()
-
-- ...
+- [Veeam Backup & Recovery SOP](https://docs.google.com/document/d/1DSONpXwFnLDZwr7fSvNq0ck_NFoSiZ5tzIH7IDlLhgc/edit?usp=sharing) (Justin Patterson)
 
 ## Visuals
-- [Network Topology](https://drive.google.com/file/d/1QP54PL-e3aZjij4DPTfilW1mj9gJAolu/view?usp=sharing)
-[Other Visuals](link to visuals folder)
-
-## Operation Information
-[Include any relevant information here.]
+- [Network Topology](https://drive.google.com/file/d/1HcGP6VvaB8_GewDFXjLrVhHiMv72MWUP/view?usp=sharing)
 
 ## Slide Deck
-- [Slide Deck PDF](link to slide deck PDF)
+- [Project Slide Deck](https://docs.google.com/presentation/d/1TOoR41VB0sQ1VtSeoLmUTrrMk7rJBrg51uNiImuNbP0/edit?usp=sharing)
 
 ## Presentation Recording
 [Link to the recording when it becomes available]
