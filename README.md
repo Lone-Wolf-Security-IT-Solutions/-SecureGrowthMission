@@ -35,4 +35,4 @@ This project will be managed with GitHub Projects https://github.com/orgs/Lone-W
 - [Project Slide Deck](https://docs.google.com/presentation/d/1TOoR41VB0sQ1VtSeoLmUTrrMk7rJBrg51uNiImuNbP0/edit?usp=sharing)
 
 ## Presentation Recording
-- [Presentation Recording](https://github.com/Lone-Wolf-Security-IT-Solutions/SecureGrowthMission.git)
+- [Presentation Recording](https://zoom.us/rec/share/Cy2kf3lhDDwdE-lpn2xm5rPkZD7aQ2rxmC8W3f7rvb7fyNowV5N5b8VfjXYsQdt3.bU_-KDF4O4xirN3m)
